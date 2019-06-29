@@ -1,0 +1,23 @@
+{
+  "name": "learnredux",
+  "version": "1.0.0",
+  "description": "## todo-list",
+  "main": "actions.js",
+  "scripts": {
+    "start": "node reducers.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeonghoheo/Basic-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeonghoheo/Basic-redux/issues"
+  },
+  "homepage": "https://github.com/jeonghoheo/Basic-redux#readme",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
